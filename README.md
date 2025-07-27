@@ -16,4 +16,8 @@
 6. Conducted detailed customer segmentation and analysis, including total customer count, average order value per customer, and demographic breakdown (income levels and occupations) to assess their impact on orders and revenue.
 7. Identified high-value customers based on order volume, revenue contribution, and profitability.
 
-
+## Learning lessons:
+### Know your Audience.
+### Understand the type of data 
+### Know the massage you want to convey
+### Find out the key KPIs
