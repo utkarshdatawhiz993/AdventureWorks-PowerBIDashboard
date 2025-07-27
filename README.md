@@ -17,6 +17,8 @@ Served as a BI Consultant for XYZ, where I developed a four-slide dashboard tail
 <a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Product%20Details.png">Click</a>
 ### Regional Distribution
 <a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Regional%20Distribution.png">Click</a>
+### Power BI Service Link To See Interactivity
+<a href="https://app.powerbi.com/links/79uHARcAbV?ctid=dd6bfdd2-f359-4454-b361-d8b42657a63b&pbi_source=linkShare&bookmarkGuid=7e543a9e-4687-4121-a16a-34e669174959">Click</a>
 
 
 ## Major Outcomes Of The Report:
