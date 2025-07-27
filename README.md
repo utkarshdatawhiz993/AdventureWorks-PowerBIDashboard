@@ -1,4 +1,4 @@
-# Power BI dashboard  
+# Power BI Dashboard  
 ## I played the role of BI Consultant for company name "XYZ". I have built four slides mostly cater to sales managers for three different locations like North America, Europe and Pacific region.
 ## Ojectives of the report:
 1. provide executive level summary of the sales trends specifically about Orders, Revenue and profits.
