@@ -8,7 +8,8 @@
 5. Ensure interactivity and user engagement through a simple, intuitive design—using filters, drill-downs, and dynamic visual elements.
 
 ## Dashboard Pics
-<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Customer%20Details.png">CsutomerDeails</a>
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Executive%20Dashboard.png">ExecutiveDashboard</a>
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Customer%20Details.png">CustomerDeails</a>
 
 ## Major Outcomes of the report:
 1. Conducted comparative analysis of key KPIs—including total orders, revenue, profit, and product return rate—across regions, product categories, and over time.
