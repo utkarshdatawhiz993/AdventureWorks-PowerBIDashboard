@@ -1,6 +1,6 @@
 # Power BI Dashboard  
 Served as a BI Consultant for XYZ, where I developed a four-slide dashboard tailored for sales managers across three key regions: North America, Europe, and the Pacific.
-## Ojectives of the report:
+## Ojectives Of The Report:
 1. Deliver a concise executive summary highlighting sales trends, with a focus on orders, revenue, and profit.
 2. Compare key performance indicators (KPIs) across regions—North America, Pacific, and Europe—to identify high and low-performing markets.
 3. Analyze product-level trends to uncover top-performing and underperforming categories.
@@ -19,7 +19,7 @@ Served as a BI Consultant for XYZ, where I developed a four-slide dashboard tail
 <a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Regional%20Distribution.png">Click</a>
 
 
-## Major Outcomes of the report:
+## Major Outcomes Of The Report:
 1. Conducted comparative analysis of key KPIs—including total orders, revenue, profit, and product return rate—across regions, product categories, and over time.
 2. Evaluated top-performing products based on key metrics such as orders, revenue, and profitability.
 3. Performed month-over-month comparison of key KPIs (orders, revenue, and profit) against set targets to identify performance gaps and improvements.
@@ -28,7 +28,7 @@ Served as a BI Consultant for XYZ, where I developed a four-slide dashboard tail
 6. Conducted detailed customer segmentation and analysis, including total customer count, average order value per customer, and demographic breakdown (income levels and occupations) to assess their impact on orders and revenue.
 7. Identified high-value customers based on order volume, revenue contribution, and profitability.
 
-## Learning lessons:
+## Learning Lessons:
 1. Know your audience: Tailor your insights and presentation style to suit different stakeholders such as executives, managers, business analysts, or decision-makers.
 2. Clarify your message: Craft a strong and focused data story. Identify the key insights and choose the most effective charts, tables, or visuals to communicate them clearly.
 3. Understand the data type: Different data types call for different visual approaches—use continuous data to highlight trends, comparative data for benchmarking, and so on.
