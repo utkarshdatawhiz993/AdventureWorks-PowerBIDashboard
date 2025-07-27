@@ -13,8 +13,9 @@
 ### Customer Details
 <a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Customer%20Details.png">Click</a>
 ### Product Details
-<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Product%20Details.png>Click</a>
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Product%20Details.png">Click</a>
 ### Regional Distribution
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Regional%20Distribution.png">Click</a>
 
 
 ## Major Outcomes of the report:
