@@ -8,11 +8,12 @@
 5. Provide interactivity and dynamism in simplest form. 
 
 ## Major Outcomes of the report:
-1. Done comparative analysis of key KPIs like total orders, revenue, profit and product return rate across regions, product level and across timeline.
-2. Top product level performance across key KPIs.
-3. Comparative analysis of key KPIs (Orders, revenue, profit) with target (previous month's orders, reveue, profit).
-4. Regional distribution of key KPIs.
-5. Product level performance in terms of key KPIs.
-6. Customer segmentation and analysis: Total customers and avarage order per customer, Customer distribution across income level and occupation in terms of orders and reveue generated and top customers in terms of orders, reveue and profits.
+1. Conducted comparative analysis of key KPIs—including total orders, revenue, profit, and product return rate—across regions, product categories, and over time.
+2. Evaluated top-performing products based on key metrics such as orders, revenue, and profitability.
+3. Performed month-over-month comparison of key KPIs (orders, revenue, and profit) against set targets to identify performance gaps and improvements.
+4. Analyzed regional distribution of sales performance indicators to uncover area-specific trends and insights.
+5. Assessed product-level performance using core KPIs to determine bestsellers and underperformers.
+6. Conducted detailed customer segmentation and analysis, including total customer count, average order value per customer, and demographic breakdown (income levels and occupations) to assess their impact on orders and revenue.
+7. Identified high-value customers based on order volume, revenue contribution, and profitability.
 
 
