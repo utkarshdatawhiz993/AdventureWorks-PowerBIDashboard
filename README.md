@@ -1,5 +1,5 @@
 # Power BI Dashboard  
-## I played the role of BI Consultant for company name "XYZ". I have built four slides mostly cater to sales managers for three different locations like North America, Europe and Pacific region.
+## Served as a BI Consultant for XYZ, where I developed a four-slide dashboard tailored for sales managers across three key regions: North America, Europe, and the Pacific.
 ## Ojectives of the report:
 1. Deliver a concise executive summary highlighting sales trends, with a focus on orders, revenue, and profit.
 2. Compare key performance indicators (KPIs) across regions—North America, Pacific, and Europe—to identify high and low-performing markets.
