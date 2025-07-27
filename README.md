@@ -7,3 +7,4 @@
 4. Analyse customer base.
 
 ## Major findinds of the report:
+1. 
