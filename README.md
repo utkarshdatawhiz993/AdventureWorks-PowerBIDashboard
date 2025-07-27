@@ -9,11 +9,11 @@
 
 ## Dashboard Pics
 ### Executive Dashboard
-<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Executive%20Dashboard.png">ExecutiveDashboard</a>
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Executive%20Dashboard.png">click</a>
 ### Customer Details
-<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Customer%20Details.png">CustomerDeails</a>
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Customer%20Details.png">Click</a>
 ### Product Details
-
+<a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Product%20Details.png>Click</a>
 ### Regional Distribution
 
 
