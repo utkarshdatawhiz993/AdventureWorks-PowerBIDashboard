@@ -17,9 +17,10 @@
 7. Identified high-value customers based on order volume, revenue contribution, and profitability.
 
 ## Learning lessons:
-1. Know your audience: They can be executives, managers, Business analyst or stakeholders.
-2. Clarity on the massage you want to convey: Develop strong and concise data story and finding out key charts or tables or diagrames that can be used.
-3. Understand the data type: that can be continuous (To showcase trends), Comparative (to do comparison) and others.
-4. Simplicity is the best way to convey massage. Sinmplicity in dashboard, KPIs or narration of story.
-5. Interctivity is best way to declutter the dashboard: Use drill up, Drill Down, Drill through, Customer toolkit, Filters, Parameters.
-6. 
+1. Know your audience: Tailor your insights and presentation style to suit different stakeholders such as executives, managers, business analysts, or decision-makers.
+2. Clarify your message: Craft a strong and focused data story. Identify the key insights and choose the most effective charts, tables, or visuals to communicate them clearly.
+3. Understand the data type: Different data types call for different visual approaches—use continuous data to highlight trends, comparative data for benchmarking, and so on.
+4. Keep it simple: Simplicity enhances clarity. Use clean dashboards, clear KPIs, and straightforward storytelling to avoid overwhelming your audience.
+5. Enhance interactivity: Reduce dashboard clutter and improve user experience with interactive features like drill-down, drill-up, drill-through, custom tooltips, filters, and parameters.
+
+ 
