@@ -6,7 +6,8 @@
 3. Analyze product-level trends to uncover top-performing and underperforming categories.
 4. Examine the customer base to identify key segments, purchasing behavior, and contribution to overall sales and profitability.
 5. Ensure interactivity and user engagement through a simple, intuitive design—using filters, drill-downs, and dynamic visual elements.
-
+## Dataset
+<a href+"https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Raw_Dataset.zip">Click</a>
 ## Dashboard Pics
 ### Executive Dashboard
 <a href="https://github.com/utkarshdatawhiz993/Sql-Project-/blob/main/Executive%20Dashboard.png">click</a>
